@@ -1,4 +1,4 @@
-# Story_Quiz.ai
+# Story_QuizMaster
 
 Story_Quiz.ai is a creative and educational AI application that turns generated stories into interactive audio-based quizzes. Leveraging the power of **Groq LLMs, gTTS, Langchain and Sentence Transformers,** this app creates personalized stories in your chosen genre, narrates them aloud, and generates comprehension quizzes to test your understanding — all within a sleek, colorful Streamlit interface.
 
